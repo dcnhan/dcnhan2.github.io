@@ -10,5 +10,15 @@
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Deep Appearance Models: A Deep Boltzmann Machine Approach for Face Modeling</title>
+      <link>https://dcnhan.github.io/publication/dams/</link>
+      <pubDate>Wed, 31 Dec 1969 18:33:38 -0600</pubDate>
+      
+      <guid>https://dcnhan.github.io/publication/dams/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
